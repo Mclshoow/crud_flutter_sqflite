@@ -1,6 +1,6 @@
 # crud_flutter_sqflite
 
-A new Flutter project.
+Crud com sqflite no flutter.
 
 ## Getting Started
 
