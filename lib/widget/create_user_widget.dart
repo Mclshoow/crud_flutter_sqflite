@@ -6,10 +6,10 @@ class CreateUserWidget extends StatefulWidget {
   final ValueChanged<User> onSubmit;
 
   const CreateUserWidget({
-    Key? key,
+    super.key,
     this.user,
     required this.onSubmit,
-  }) : super(key: key);
+  });
 
   @override
   State<CreateUserWidget> createState() => _CreateUserWidgetState();

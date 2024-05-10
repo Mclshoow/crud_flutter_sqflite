@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:crud_flutter_sqflite/database/user_db.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
